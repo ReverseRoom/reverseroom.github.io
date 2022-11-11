@@ -1,9 +1,9 @@
 ---
-title : "Modern Documentation Theme"
-description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-date: 2020-10-06T08:47:36+00:00
-lastmod: 2020-10-06T08:47:36+00:00
+title : "Vulecc Web Application Security Scanner"
+description: "VULECC is the pioneer of the Next-Generation Vulnerability Scanner, empowering companies to offensively exploit their IT assets to find out even the most sophisticated vulnerabilities."
+lead: "VULECC is the pioneer of the Next-Generation Vulnerability Scanner, empowering companies to offensively exploit their IT assets to find out even the most sophisticated vulnerabilities."
+date: 2022-11-11T08:47:36+00:00
+lastmod: 2020-11-11T08:47:36+00:00
 draft: false
 images: []
 ---

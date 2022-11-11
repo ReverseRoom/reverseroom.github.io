@@ -1,14 +1,14 @@
-name = "Doks"
+name = "Vulecc Core"
 license = "MIT"
-licenselink = "https://github.com/h-enk/doks/blob/master/LICENSE"
-description = "Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+licenselink = "https://github.com/ReverseRoom"
+description = "VULECC is the pioneer of the Next-Generation Vulnerability Scanner, empowering companies to offensively exploit their IT assets to find out even the most sophisticated vulnerabilities."
 
-homepage = "https://github.com/h-enk/doks"
-demosite = "https://doks.netlify.app"
+homepage = "https://vulecc.com/"
+demosite = "https://vulecc.com/"
 
-tags = ["landing page", "documentation", "blog", "minimal", "modern", "customizable", "search", "dark mode", "bootstrap"]
-features = ["security aware", "fast by default", "seo-ready", "development tools", "bootstrap framework", "netlify-ready", "full text search", "page layouts", "dark mode"]
+tags = ["secure", "faster", "xss scanner", "sqli scanner", "xxe scanner"]
+features = ["security aware", "fast by default", "minimum false positives"]
 
 [author]
-  name = "Henk Verlinde"
-  homepage = "https://henkverlinde.com"
+  name = "Emin Ghuliev"
+  homepage = "https://vulecc.com"

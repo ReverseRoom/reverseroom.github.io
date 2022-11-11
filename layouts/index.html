@@ -7,7 +7,6 @@
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
       <a class="btn btn-primary btn-lg px-4 mb-2" href="{{ "docs/prologue/introduction/" | relURL }}" role="button">Get started</a>
-      <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON "https://raw.githubusercontent.com/h-enk/doks/master/package.json" }}{{ $data.version }}</a></p>
     </div>
   </div>
 </section>
@@ -18,30 +17,30 @@
   <div class="container">
     <div class="row justify-content-center text-center">
       <div class="col-lg-5">
-        <h2 class="h4">Security aware</h2>
-        <p>Get A+ scores on <a href="https://observatory.mozilla.org/analyze/doks.netlify.app">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.</p>
+        <h2 class="h4">Secure 🦀</h2>
+        <p>Most of the similar technologies are written in insecure languages such as C/C++, which results in numerous low-level vulnerabilities that are unacceptable for modern security products. Instead, we employed the secure-by-default programming language Rust.</p>
       </div>
       <div class="col-lg-5">
-        <h2 class="h4">Fast by default ⚡️</h2>
-        <p>Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637">Google Lighthouse</a> by default. Doks removes unused css, prefetches links, and lazy loads images.</p>
+        <h2 class="h4">2x Faster Scanning ⚡️</h2>
+        <p>Our scripting implementation uses parallelism and async concepts to achieve a faster scanning engine.</p>
       </div>
       <div class="col-lg-5">
-        <h2 class="h4">SEO-ready</h2>
-        <p>Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking.</p>
+        <h2 class="h4">Minimum false positives</h2>
+        <p>Unlimited VULECC scans are designed to exploit detected vulnerabilities. As a result of exploitation, VULECC reaches more than 95% in detection accuracy and generates fewer false positives.</p>
       </div>
     </div>
     <div class="row justify-content-center text-center">
       <div class="col-lg-5">
-        <h2 class="h4">Full text search</h2>
-        <p>Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking.</p>
+        <h2 class="h4">DynamicScan Feature</h2>
+        <p>Modern web applications are designed to be viewed in browsers and therefore cannot be scanned by web crawlers that do not utilize browser instances. Using the Google Chrome driver, VULECC can crawl and inspect modern web applications.</p>
       </div>
       <div class="col-lg-5">
-        <h2 class="h4">Page layouts</h2>
-        <p>Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs.</p>
+        <h2 class="h4">TOP 10 Vulnerability Categories</h2>
+        <p>VULECC scan templates also feature the top 10 vulnerability categories authorized by OWASP(The Open Web Application Security Project®) to reduce risks associated with client web application security.</p>
       </div>
       <div class="col-lg-5">
-        <h2 class="h4">Dark mode</h2>
-        <p>Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.</p>
+        <h2 class="h4">Out-of-band testing</h2>
+        <p>With the help of intelligent sensors equipped in the system, blind attacks become increasingly evident. Sensors can easily detect blind attacks by interfacing with the scan engine.</p>
       </div>
     </div>
   </div>

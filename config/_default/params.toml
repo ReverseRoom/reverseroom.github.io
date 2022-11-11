@@ -1,20 +1,16 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Vulecc"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "Modern Web Application Vulnerability Scanner"
+description = "VULECC is the pioneer of the Next-Generation Vulnerability Scanner, empowering companies to offensively exploit their IT assets to find out even the most sophisticated vulnerabilities."
 
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
-
-## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+domainTLD = "vulecc.com"
+titleHome = "Vulecc"
 
 ## JSON-LD
 # schemaType = "Person"
