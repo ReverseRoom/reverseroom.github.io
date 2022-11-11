@@ -15,8 +15,9 @@ toc: true
 
 ## Requirements
 
-You need to install some prerequisite packages in order to use Vulecc.
-```
+You need to install some prerequisite packages in order to use Vulecc:
+
+```shell
 # Install docker
 curl -fsSL https://get.docker.com -o get-docker.sh
 sh get-docker.sh
